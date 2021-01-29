@@ -1,1 +1,1 @@
-# BADS7105-CRM-Analytics-and-Intelligence
+# BADS 7105 - CRM Analytics and Intelligence
